@@ -46,19 +46,19 @@ bash flutter_forge.sh
 
 The script will ask you these questions:
 
-📌 Enter your project name (e.g. my_app)
-🏢 Enter your org name (e.g. com.yourname)
-🧠 Choose state management: 1) Provider  2) Bloc  3) Riverpod  4) GetX
-🌐 Choose language: 1) English  2) Arabic (RTL)  3) Both
-🎨 Choose theme color: 1) Blue  2) Green  3) Red  4) Purple  5) Orange  6) Custom hex
-💦 Add Splash Screen? (yes/no)
-🖼️  Add App Icon setup? (yes/no)
-🔥 Add Firebase? (yes/no)
-→ Authentication? Firestore? Storage? Notifications?
-👤 GitHub username
-🔑 GitHub Personal Access Token
-📁 GitHub repo name
-🌐 Public or Private repo?
+##📌 Enter your project name (e.g. my_app)
+##🏢 Enter your org name (e.g. com.yourname)
+##🧠 Choose state management: 1) Provider  2) Bloc  3) Riverpod  4) GetX
+##🌐 Choose language: 1) English  2) Arabic (RTL)  3) Both
+##🎨 Choose theme color: 1) Blue  2) Green  3) Red  4) Purple  5) Orange  6) Custom hex
+##💦 Add Splash Screen? (yes/no)
+##🖼️  Add App Icon setup? (yes/no)
+##🔥 Add Firebase? (yes/no)
+##→ Authentication? Firestore? Storage? Notifications?
+##👤 GitHub username
+##🔑 GitHub Personal Access Token
+##📁 GitHub repo name
+##🌐 Public or Private repo?
 
 
 
